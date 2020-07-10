@@ -1,1 +1,1 @@
-"aHR0cHM6Ly9wcmUueHIxMTAubmV0OjIxMDAwLGh0dHBzOi8vcHJlLnhyMTEwLm5ldDo1MTAwNSxodHRwczovL3ByZS54cjExMC5uZXQ6NTEwMDYsaHR0cHM6Ly9wcmUueHIyMjIubmV0OjIxMDA0LGh0dHBzOi8vcHJlLnhyc3BlZWQuY246MjEwMDI="
+https://pre.xr110.net:21000,https://pre.xr110.net:51005,https://pre.xr110.net:51006,https://pre.xr222.net:21004,https://pre.xrspeed.cn:21002
